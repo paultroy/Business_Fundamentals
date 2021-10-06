@@ -1,6 +1,6 @@
 What is the framing question of your analysis, or the purpose of the model/system you plan to build?
 + The Chill Foundation overview: a non-profit that exists to provide experiential learning activities, reflection, and discussion, paired with board sport lessons (e.g. skateboarding, snowboarding) to underprivelged youth.
-+Framing Question: what regional/neighborhood areas in Colorado should be chosen as an event site for The Chill Foundation to trial their weekend pop-up event series? 
++ Framing Question: what regional/neighborhood areas in Colorado should be chosen as an event site for The Chill Foundation to trial their weekend pop-up event series? 
 
 Who benefits from exploring this question or building this model/system?
 + The Chill Foundation benefits from this analysis by maximizing child turnout/participation for their event.
