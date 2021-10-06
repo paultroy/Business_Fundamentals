@@ -21,6 +21,7 @@ If modeling, what will you predict as your target?
 Tools:
 How do you intend to meet the tools requirement of the project?
 + I will use Google Sheets to clean my data and perform EDA. I will use Tableau to visualize trends and patterns that I discover during EDA (e.g. neighborhoods/regions with lowest median HH income and far distance to outdoor amenities).
+
 Are you planning in advance to need or use additional tools beyond those required?
 + No
 
