@@ -12,7 +12,7 @@ What dataset(s) do you plan to use, and how will you obtain the data?
 
 I plan to start with this dataset that's available from city of Denver for free. I may bring in other data sets from Colorado Department of Transportation for things such as highway traffic counts or road type, if time permits.
 + https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-traffic-accidents
-    + This data set is for the past 5 years of traffic accidents. For my project, I plan to use only 2021 year to date      data.
+    + This data set is for the past 5 years of traffic accidents. For my project, I plan to use only the trailing 12 months of accident data.
 
 
 What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
