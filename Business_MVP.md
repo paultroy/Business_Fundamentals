@@ -10,4 +10,4 @@ Impact Hypothesis: We want to increase Apple Map's market share within the navig
 
 As an initial step in my EDA, I wanted to see what time of day most accidents occur. The above chart shows that most accidents happen during the evening rush hour. Further, most accidents are fairly minor in nature, that is, they do not involve serious bodily injury or death.
 
-The above chart represents all accidents represented in Denver. As next steps, I'd further like to group accidents by road location and accident type to investigate recurring accident patterns or common accident roadways.
+The above chart represents all accidents that took place in Denver between June through September. As next steps, I'd further like to group accidents by road location and accident type to investigate recurring accident patterns or common accident roadways.
